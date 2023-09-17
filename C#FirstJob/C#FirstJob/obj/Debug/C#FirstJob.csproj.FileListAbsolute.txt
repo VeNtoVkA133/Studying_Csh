@@ -1,0 +1,7 @@
+D:\VSrepos\VS2022\C#FirstJob\C#FirstJob\obj\Debug\C#FirstJob.csproj.AssemblyReference.cache
+D:\VSrepos\VS2022\C#FirstJob\C#FirstJob\obj\Debug\C#FirstJob.csproj.CoreCompileInputs.cache
+D:\VSrepos\VS2022\C#FirstJob\C#FirstJob\bin\Debug\C#FirstJob.exe.config
+D:\VSrepos\VS2022\C#FirstJob\C#FirstJob\bin\Debug\C#FirstJob.exe
+D:\VSrepos\VS2022\C#FirstJob\C#FirstJob\bin\Debug\C#FirstJob.pdb
+D:\VSrepos\VS2022\C#FirstJob\C#FirstJob\obj\Debug\C#FirstJob.exe
+D:\VSrepos\VS2022\C#FirstJob\C#FirstJob\obj\Debug\C#FirstJob.pdb
